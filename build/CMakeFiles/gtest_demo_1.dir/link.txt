@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/gtest_demo_1.dir/gtest_demo_1.cc.o  -o bin/gtest_demo_1 -rdynamic lib/libgtest.a -lpthread 

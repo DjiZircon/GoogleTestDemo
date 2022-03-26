@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/gflags_demo_1.dir/gflags_demo_1.cc.o  -o bin/gflags_demo_1 -rdynamic lib/libgflags_nothreads.a 
